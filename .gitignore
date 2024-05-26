@@ -1,0 +1,5 @@
+# Ignore all folders
+*/
+
+# Include the vr_playform folder
+!vr_playform/
