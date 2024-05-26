@@ -1,5 +1,4 @@
-# Ignore all folders
-*/
-
-# Include the vr_platform folder
-!vr_platform
+.vscode
+data
+esp8266
+.gitignore
